@@ -5,7 +5,14 @@ It's a simple keeper like google keep that you can keep your notes and created w
 
 
 # Instructions
+deploy and run
 ```
 npm init
 npm start
 ```
+or make a build with
+```
+npm init
+npm build
+```
+
